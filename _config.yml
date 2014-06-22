@@ -21,4 +21,4 @@ version:          1.0.0
 github:
   repo:           https://github.com/poole/poole
 
-exclude:  [ Gemfile, Gemfile.lock, Procfile, vendor, gems]
+exclude:  [ 'Gemfile', 'Gemfile.lock', 'Procfile', 'vendor', 'gems']
